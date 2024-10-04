@@ -1,7 +1,7 @@
 #  Bootcamp - Front End do Zero | DIO - Digital Innovation One + Ri Happy
 
 [O que é Bootcamp](#o-que-e-bootcamp) • [Sobre](#sobre) • [Linguagens e Tecnologias](#linguagens-e-tecnologias)
-[Projetos desenvolvidos](#projetos-desenvolvidos) •  [Estudos](#estudos) • [Artigos](#artigos) [Atividades-e-ferramentas-oferecidas-durante-o-Bootcamp](Atividades-e ferramentas-oferecidas-durante-o-Bootcamp)
+[Projetos desenvolvidos](#projetos-desenvolvidos) •  [Estudos](#estudos) • [Artigos](#artigos) [Atividades-e-ferramentas-oferecidas-durante-o-Bootcamp](#atividades-e-ferramentas-oferecidas-durante-o-bootcamp)
 [Contato](#contato)
 
 ## O que é Bootcamp
@@ -28,16 +28,17 @@ Este Bootcamp visa proporcionar uma imersão no desenvolvimento front-end, focan
 |--------|---------|---------|
 |Projeto Open Sourse |repositório [acesse](https://github.com/patyfreitasbr/dio-lab-open-source) | projeto [acesse]() |
 
+
+
+# Artigos 
+Em breve
+
 # Estudos
 Abaixo, você encontra anotações es estudos que realizei durante o bootcamp
 
 | Linuguagens   | Link|
 |--------|---------|
 |HTML|  |
-
-# Artigos 
-Em breve
-
 
 ## Atividades e ferramentas oferecidas durante o Bootcamp
 - **Mentorias (live)**: Momento para inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
