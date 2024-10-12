@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-bt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>box sizing</title>
+    <style>
+        /* utilizada para criar espaçamento em volta dos elementos
+            por fora das bordas do elemento
+            cada valor se aplica aos 4 lados
+            2 valores acima e abaixo
+            3 em cima em baixo e dos lados
+            4 valores cima direita  baixo e esquerda
+
+            */
+        div{
+            width: 300px;
+            height: 200px;
+            color: white;
+        }
+
+        #elemento-01{
+           background: orange;
+           
+   
+        }
+
+        #elemento-02 {
+            background: purple;
+            box-sizing: border-box;
+            
+        }
+
+
+    </style>
+</head>
+<body>
+    <div id="elemento-01">elemento 01</div>
+    <div id="elemento-02">elmento 02</div>
+    
+</body>
+</html>

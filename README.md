@@ -1,7 +1,7 @@
 #  Bootcamp - Front End do Zero | DIO - Digital Innovation One + Ri Happy
 
 [O que é Bootcamp](#o-que-e-bootcamp) • [Sobre](#sobre) • [Linguagens e Tecnologias](#linguagens-e-tecnologias)
-[Projetos desenvolvidos](#projetos-desenvolvidos) •  [Estudos](#estudos) • [Artigos](#artigos) [Atividades-e-ferramentas-oferecidas-durante-o-Bootcamp](#atividades-e-ferramentas-oferecidas-durante-o-bootcamp)
+[Projetos desenvolvidos](#projetos-desenvolvidos) •  [Estudos](#estudos) • [Artigos](#artigos) [Atividades e ferramentas oferecidas durante o Bootcamp](#atividades-e-ferramentas-oferecidas-durante-o-bootcamp) •
 [Contato](#contato)
 
 ## O que é Bootcamp
@@ -24,9 +24,9 @@ Este Bootcamp visa proporcionar uma imersão no desenvolvimento front-end, focan
 # Projetos desenvolvidos
   
   Clicando nos links você verá cada desafio/projeto final desenvolvido durante o curso. 
-| Nome   | Link|  Link |
-|--------|---------|---------|
-|Projeto Open Sourse |repositório [acesse](https://github.com/patyfreitasbr/dio-lab-open-source) | projeto [acesse]() |
+| Nome   | Links |
+|--------|---------|
+|Projeto Open Sourse |[repositório](https://github.com/patyfreitasbr/dio-lab-open-source)   /  [projeto](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/projetos/projeto-open-source-no-GitHub) |
 
 
 
@@ -36,9 +36,10 @@ Em breve
 # Estudos
 Abaixo, você encontra anotações es estudos que realizei durante o bootcamp
 
-| Linuguagens   | Link|
+| Linguagens   | Link|
 |--------|---------|
-|HTML|  |
+|HTML  | [repositório](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/estudos)
+| CSS | em andamento
 
 ## Atividades e ferramentas oferecidas durante o Bootcamp
 - **Mentorias (live)**: Momento para inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.

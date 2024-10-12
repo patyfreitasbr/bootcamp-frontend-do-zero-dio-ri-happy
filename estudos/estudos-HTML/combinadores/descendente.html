@@ -14,27 +14,44 @@
         4. Combinador  irmão geral (~) 
         [SELETOR] [COMBINADOR] [SELETOR]
         */
+
+       .fundo-verde li {
+        background: greenyellow;
+       }
+       .fundo-azul li {
+        background: rgb(47, 120, 255);
+       }
+
+       li {
+        color: red;
+       }
+
+       .fundo-verde #sublista-01 li {
+        color: black;
+
+       }
+
     </style>
 </head>
 <body>
     <ul>
         <li class="fundo-verde" id="lista-01">
             <div>Item 1</div>
-            <ul>
+            <ul id="sublista-01">
                 <li>Subitem A</li>
                 <li>Subitem b</li>
             </ul>
         </li> 
         <li class="fundo-verde" id="lista-02">
             <div>Item 2</div>
-            <ul>
+            <ul id="sublista-02">
                 <li>Subitem A</li>
                 <li>Subitem b</li>
             </ul>  
         </li>  
-        <li class="fundo-verde" id="lista-03">
+        <li class="fundo-azul" id="lista-03">
             <div>Item 3</div>
-        <ul>
+        <ul id="sublista-03">
             <li>Subitem A</li>
             <li>Subitem b</li>
         </ul>
@@ -43,4 +60,3 @@
     
 </body>
 </html>
-/* ei la */
