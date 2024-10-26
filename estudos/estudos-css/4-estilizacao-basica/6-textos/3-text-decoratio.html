@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>textos</title>
+    <style>
+
+
+        #underline {
+            text-decoration: underline ;
+        }
+
+        a {
+            text-decoration: none ;
+        }
+
+        #tachado {
+            text-decoration: line-through ;
+        }
+        #overline {
+            text-decoration: overline ;
+        }
+
+        #text-decoration-line {
+
+            text-decoration-line:overline;
+        }
+
+       
+        #li-double {
+            text-decoration-line: underline;
+            text-decoration-style: double;
+            
+         }
+
+         #li-dotted  {
+            text-decoration-line: underline;
+            text-decoration-style:dotted ;
+            
+        }
+
+         #li-dashed {
+            text-decoration-line: underline;
+            text-decoration-style: dashed;
+            
+        }
+         #li-wavy {
+            text-decoration-line: underline;
+            text-decoration-style: wavy;            
+        }
+
+       
+        #cor-linha {
+            text-decoration-line: underline;
+            text-decoration-style: wavy;  
+            text-decoration-color:purple ;
+
+        }
+        #espessura-linha {
+            text-decoration-line: underline;
+            text-decoration-style: overline;  
+            text-decoration-color:purple;
+            text-decoration-thickness: 3px;
+        }
+
+        #linha-unic {
+            text-decoration: underline solid purple 5px;
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <h1>propriedade <code>text-decoration</code></h1>
+    <p> Adiciona ou remove linhas no nosso texto: sejam linhas em cima, no meio ou embaixo</p>
+    <p> Por padrão o navegador coloca o text decoration como "underline" para ancoras e para os demais textos ele vem como none</p>
+    
+<ul>
+    <li id="underline">Underline</li>   
+    <a href="#">Link de exemplo</a></li>
+</ul>
+
+<ul>
+    <li id="overline">overline/linha acima</li>
+</ul>
+
+<br>
+<p> A propeirdade text-decoration é considerada um propriedade abreviada, ou seja, dentro dela é possivel definir
+    várias outras propriedades em uma só.
+</p>
+
+<p> porque a propriedade text-decoration-style precisa ser usada junto com text-decoration-line para funcionar adequadamente.</p>
+<p> Elá é a combinação de quatro outra spropriedades. Que são as listadas abaixo.</p>
+    <ul>
+        <li><code>text-decoration-line: </code></li>
+        <li ><code>text-decoration-style: </code></li>    
+        <li><code>text-decoration-color: </code></li>
+        <li><code>text-decoration-thickness: </code></li>
+     </ul>  
+    
+        <h3><code>text-decoration-line: </code></h3>
+
+        <p>Especifica qual o tipo de linha que sera adicionada ao nosso texto</p>
+        <p id="text-decoration-line">Exemplo: <code>text-decoration-line: overline</code> </p>
+       
+       
+        <h3><code>text-decoration-style: </code></h3>
+        
+        Determina qual o tipo de linha que a gente vai adicionar
+
+        <ul>
+            <li id="li-solid"> solid -  vem por padrão</li>
+            <li id="li-double">double - linha dupla</li>
+            <li id="li-dotted"> dotted - linha em forma de varios pontinhos</li>
+            <li id="li-dashed"> dashed - linha em forma de varios tracinhos</li>
+            <li id="li-wavy"> wavy - linha em forma de varias ondinhas</li>
+        </ul>
+        <p> por padrão é definido um valor "solid" que é uma linha reta e continua</p>
+
+
+        
+        
+        <h3><code>text-decoration-color: </code></h3>
+        <p> A linha segue a cord do nosso texto</p>
+
+        <p id="cor-linha">Cor da linha roxa aplicando em wavy</p> 
+    
+       <h3><code>text-decoration-thickness: </code></h3>
+            <p>Determina qual sera espessura da linha que estamos criando em nosso textos</p>
+
+             <p id="espessura-linha">Espessura da linha da linha roxa aplicando em overline</p>    
+      
+       
+             <h3>Resumindo em 1 so linha de codigo</h3>
+
+             <p id="linha-unic">text-decoration: underline solid purple 5px;</p>    
+             
+            
+   
+
+    
+</body>
+</html>

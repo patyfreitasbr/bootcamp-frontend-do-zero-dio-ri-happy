@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Textos</title>
+</head>
+
+    <style>
+
+        .exemplo {
+            width: 200px;
+            background-color: chartreuse;
+        }
+
+        span {
+            background-color: seagreen;
+            color: white;
+        }
+
+        #nowrap {
+            white-space: nowrap;
+            
+        }
+
+        #pre {
+            white-space:pre ;
+        }
+
+        #pre-line{
+            white-space: pre-line ;
+
+        }
+
+        #pre-wrap{
+            white-space:pre-wrap ;
+        }
+
+            
+        #break-space{
+            white-space:break-space ;
+
+        }
+
+
+    </style>
+
+<body>
+
+    <h2>Propriedades <code>white-space</code></h2>
+    <p id="exemplo-letter-spacing">
+    Define como so espaços em branco do texto de um determinado elemento é tratado.</p>
+
+        <i>Exemplos:</i>
+        <br> <br>
+
+        
+        <code>white-space: normal;</code>
+        <p class="exemplo">
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum necessitatibus, facere modi aliquid nostrum commodi facilis, pariatur enim aut laboriosam rerum deserunt aperiam? Deserunt minima voluptatem soluta minus repellendus fugiat!</span>
+        </p>    
+
+        <code>white-space:nowrap</code>
+        <p>Apenas 1 espaço em branco e as quebras de linhas sao ignoradas, o conteúdo do texto não é quebrado e se mantem em 1 so linha
+
+
+        </p>
+        <p id="nowrap" class="exemplo">
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum necessitatibus, facere modi aliquid nostrum commodi facilis, pariatur enim aut laboriosam rerum deserunt aperiam? Deserunt minima voluptatem soluta minus repellendus fugiat!</span>
+        </p>
+
+
+        <code>white-space:pre</code>
+        <p>o espaço em branco sera preservado exatamente como ele é
+             As linhas iram se quebrar apenas em novas linhas</p>
+        <p id="pre" class="exemplo">
+        <span>L comodi facilis, pariatur          enim aut laboriosam rerum deserunt aperiam?
+             Deserunt minima voluptatem soluta minus 
+                   repellendus fugiat!</span>
+        </p>
+
+        <code>white-space:pre-line</code>
+        <p>As sequencias de espaço em branco iram se transformar em apenas um espaço. 
+            O texto era quebrado quando o leemnto chega ao fim e quando tem quebra de linha no texto que digitamos no HTMl.  </p>
+        <p id="pre-line" class="exemplo">
+        <span>Lorem ipsum dolor      sit amet consectetur adipisicing elit. Dolorum    
+             necessitatibus, facere modi aliquid nostrum commodi
+             
+             
+             facilis, pariatur enim aut laboriosam rerum deserunt aperiam?
+              Deserunt minima voluptatem soluta       minus repellendus fugiat!</span>
+        </p>
+
+        <code>white-space:pre-wrap</code>
+        <p>Os espaços em branco sao preservados como esta no nosso texto.
+            O texto sera quebrado quando necessario e em quebras de linha
+        </p>
+        <p id="pre-wrap" class="exemplo">
+        <span>Lorem ipsum          dolor sit amet consectetur adipisicing elit. Dolorum     
+             necessitatibus, facere modi aliquid nostrum commodi facilis,
+             
+             
+             pariatur enim aut laboriosam rerum deserunt aperiam? Deserunt 
+             minima voluptatem soluta minus repellendus
+             
+             fugiat!</span>
+          </p>
+
+        <code>white-space:break-space</code>
+        <p>Funciona como o pre-wrap. preserva o espaço em branco,
+             preserva a linha quando chega no container ou qdo tem quebra de linha no nosso txt. 
+             A diferenca e que qdo tem sequencia de espaços que ultrapassam o limite do conteiner ele nao sai do container</p>
+        <p id="break-space" class="exemplo">
+        <span>Lorem ipsum dolor sit amet     consectetur adipisicing
+             elit. Dolorum necessitatibus, facere modi aliquid nostrum commodi 
+             
+             facilis, pariatur enim aut laboriosam rerum deserunt aperiam? Deserunt
+              minima voluptatem soluta minus repellendus
+              
+                            fugiat!</span>
+          </p>
+
+
+      
+
+
+
+   
+</body>
+</html>

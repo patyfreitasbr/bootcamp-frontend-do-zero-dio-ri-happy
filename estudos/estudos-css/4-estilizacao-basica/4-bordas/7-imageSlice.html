@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bordas</title>
+
+    <style>
+       * {
+        font-family: Arial, Helvetica, sans-serif;
+       }
+
+       .exemplo {
+        background-color: black;
+        width: 200px;
+        height: 200px;
+        border: 30px solid;
+       }
+
+       #exemplo-1 {
+        border-image-source: url(../assets/border1.png);
+        border-image-repeat: repeat;
+        border-image-slice: 90 fill; 
+
+       }
+       
+       #exemplo-2 {
+        border-image-source: linear-gradient(red, blue);
+        border-image-slice: 10;
+
+       }
+    </style>
+</head>
+<body>
+    <h1>Bordas com imagem</h1>
+        <ul>
+        <li>border-image-source</li>
+        <li>border-image-widht</li>
+        <li>border-image-repeat</li>
+        <li>border-image-outset</li>        
+        <ki>boder-image-slice</ki>
+    </ul>
+    <h2> Exemplo :</h2>
+    <div id="exemplo-1" class="exemplo"></div>
+    <br>
+    <div id="exemplo-2" class="exemplo"></div>
+    
+</body>
+</html>
