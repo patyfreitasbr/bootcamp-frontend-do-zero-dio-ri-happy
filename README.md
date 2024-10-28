@@ -28,11 +28,11 @@ Este Bootcamp visa proporcionar uma imersão no desenvolvimento front-end, focan
 |--------|---------|
 |Projeto Open Sourse |[repositório](https://github.com/patyfreitasbr/dio-lab-open-source)   /  [projeto](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/projetos/projeto-open-source-no-GitHub) |
 
-# desafio de código
+# Desafio de código
 
 | Nome   | Links |
 |--------|---------|
-|Explorando Html e Css com lógica de programação| [desafio1]() / [Desafio 2]()|
+|Explorando Html e Css com lógica de programação| [acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/desafio-de-codigo/desafio1)
 
 
 
