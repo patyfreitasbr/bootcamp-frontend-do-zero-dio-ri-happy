@@ -1,7 +1,7 @@
 
-# Desafio de código: Explorando HTML e CSS com lógia da programação
+# Desafio de código: Explorando HTML e CSS com lógica da programação
 
-## Desafio 1 - Criando um vitrile ne brinquedos
+## Desafio 1 - Criando um vitrine de brinquedos
 
 ### Descrição
 
