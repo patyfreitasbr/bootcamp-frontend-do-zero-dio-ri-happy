@@ -31,15 +31,15 @@ Este Bootcamp visa proporcionar uma imersão no desenvolvimento front-end, focan
 
 
 # Artigos 
-Em breve
+- [URL Amigável: A chave para um site mais acessível e bem ranqueado](https://www.dio.me/articles/url-amigavel-a-chave-para-um-site-mais-acessivel-e-bem-ranqueado)
 
 # Estudos
 Abaixo, você encontra anotações es estudos que realizei durante o bootcamp
 
 | Linguagens   | Link|
 |--------|---------|
-|HTML  | [repositório](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/estudos)
-| CSS | em andamento
+|HTML  | [acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/estudos)
+| CSS | [acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/estudos/estudos-css)
 
 ## Atividades e ferramentas oferecidas durante o Bootcamp
 - **Mentorias (live)**: Momento para inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
