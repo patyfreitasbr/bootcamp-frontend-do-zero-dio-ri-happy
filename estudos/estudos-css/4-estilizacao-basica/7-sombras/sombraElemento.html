@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilizações CSS</title>
+
+    <style>
+        div {
+            width: 200px;
+            height: 200px;
+            border: 10px solid #8f382e;
+            margin: 20px auto;
+            background: #fa8072;  
+            
+            /* box-shadow: inset 10px 10px 10px  red; valor horiz e valor vert desfoque cor       */
+            box-shadow: inset 10px 10px 10px  red, 20px 20px 10px black;/*2 sombras*/
+        }  
+        
+        #img1 {
+            width: 500px;
+            height: 200px;          
+            margin: 20px auto;  
+            object-fit: cover;   
+            filter: drop-shadow( 10px 10px 5px gray);
+         
+          
+        }
+        #img2 {
+            width: 500px;
+            height: 200px;          
+            margin: 20px auto;  
+            object-fit: cover;               
+            box-shadow: 10px 10px 5px gray;
+          
+        }
+
+        </style>
+</head>
+<body>
+    <h1>Propriedades <code>box-shadow</code></h1>
+    <p>Valor Positivo: tamanho da sombr mais espalhado</p>
+    <p>Valor negativo: menos espalhado</p>
+    <p>Efeito sombra interna: inset</p>
+
+    <div>
+
+    </div>
+
+    <img id="img1" src="img.png.png" alt="logo">
+    <img id="img2" src="img.png.png" alt="logo">
+    
+    
+</body>
+</html>
