@@ -15,6 +15,7 @@ A entrada será composta por três strings que representam os nomes dos brinqued
 **Saída**
 A saída deverá ser uma lista HTML com os brinquedos. Use a tag `ul` para a lista e a tag `li` para cada brinquedo.
 
+### - Resposta desafio 1: [Acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/blob/main/desafio-de-codigo/desafio1/desafio1.js)
 
 ## Desafio 2 - Estilizando o nome do brinquedo
 
@@ -29,4 +30,7 @@ A entrada será composta por três strings que representam os nomes dos brinqued
 **Saída**
 
 O programa deverá retornar uma tag `<h1>` estilizada, contendo o nome do brinquedo. Exemplo: `<h1 style="color: red; font-size: 16px;">Carrinho de Controle Remoto</h1>`
+
+
+### - Resposta desafio 2: [Acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/blob/main/desafio-de-codigo/desafio1/desafio2.js)
 
