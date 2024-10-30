@@ -20,32 +20,41 @@ Este Bootcamp visa proporcionar uma imersão no desenvolvimento front-end, focan
 - **Git**: Sistema de controle de versão que ajuda a gerenciar e acompanhar mudanças no código. É fundamental para colaboração em projetos de desenvolvimento.
 - **GitHub**: Plataforma de hospedagem de código que utiliza Git. Permite que você armazene, compartilhe e colabore em projetos, além de facilitar a contribuição em projetos open-source.
 
+<br>
 
-# Projetos desenvolvidos
+## Projetos Desenvolvidos
   
   Clicando nos links você verá cada desafio/projeto final desenvolvido durante o curso. 
-| Nome   | Links |
-|--------|---------|
-|Projeto Open Sourse |[repositório](https://github.com/patyfreitasbr/dio-lab-open-source)   /  [projeto](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/projetos/projeto-open-source-no-GitHub) |
+| Nome   | Linguagem|Links |
+|--------|----------|--------|
+|Projeto Open Source| Markdown + HTML|[repositório](https://github.com/patyfreitasbr/dio-lab-open-source)   /  [projeto](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/projetos/projeto-open-source-no-GitHub) |
+|Landing Page - Trilha de CSS DIO| HTML +CSS|[projeto](https://github.com/patyfreitasbr/trilha-css-desafio-01-landing-page)/[acesse](https://patyfreitasbr.github.io/trilha-css-desafio-01-landing-page/)|
+|Jogo detona Raph|HTML+CSS+JavaScript|[projeto](https://github.com/patyfreitasbr/jogo-detona-raph)/[acesse](https://patyfreitasbr.github.io/jogo-detona-raph/)|
 
-# Desafio de código
+<br>
+
+## Desafio de código
 
 | Nome   | Links |
 |--------|---------|
 |Explorando Html e Css com lógica de programação| [acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/desafio-de-codigo/desafio1)
 
+<br>
 
-
-# Artigos 
+## Artigos 
 - [URL Amigável: A chave para um site mais acessível e bem ranqueado](https://www.dio.me/articles/url-amigavel-a-chave-para-um-site-mais-acessivel-e-bem-ranqueado)
 
-# Estudos
+<br>
+
+## Estudos
 Abaixo, você encontra anotações es estudos que realizei durante o bootcamp
 
 | Linguagens   | Link|
 |--------|---------|
 |HTML  | [acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/estudos)
 | CSS | [acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/tree/main/estudos/estudos-css)
+|Lógica da programação|[em andamento]
+
 
 ## Atividades e ferramentas oferecidas durante o Bootcamp
 - **Mentorias (live)**: Momento para inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
@@ -57,8 +66,12 @@ Abaixo, você encontra anotações es estudos que realizei durante o bootcamp
 - **Matriculados**: Saber quem também está participando dessa jornada educacional 
 - **Certificado**: Certificados de todas as conquistas ao longo desse bootcamp.
 
+<br>
+
 ## Agradecimento
 Agradeço a <a hrer="https://www.dio.me/bootcamp" target="_blank">DIO - Digital Inovation One </a> e a <a hrer="https://www.rihappy.com.br/" target="_blank">Ri Happy</a> pela oportunidade de desenvolver habilidades valiosas para o mercado de trabalho.
+
+<br>
 
 ## Contato
 
