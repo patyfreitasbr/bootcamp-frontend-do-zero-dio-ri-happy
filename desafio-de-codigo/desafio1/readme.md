@@ -34,3 +34,37 @@ O programa deverá retornar uma tag `<h1>` estilizada, contendo o nome do brin
 
 ### - Resposta desafio 2: [Acesse](https://github.com/patyfreitasbr/bootcamp-frontend-do-zero-dio-ri-happy/blob/main/desafio-de-codigo/desafio1/desafio2.js)
 
+## Explorando fundamentos de lógica com JavaScript
+
+### Desafio 3 - Categorizando brinquedos por faixa etária
+
+Em uma loja de brinquedos, é importante categorizar os brinquedos com base na faixa etária recomendada para que os clientes possam encontrar facilmente o brinquedo adequado para cada idade. 
+
+O objetivo deste desafio é criar um programa que, ao receber a faixa etária fornecida pelo usuário, categorize o brinquedo em uma das seguintes categorias: "Infantil", "Pre-Adolescente" ou "Adolescente".
+
+**Entrada**
+O programa deverá receber como entrada um número que indica a idade mínima recomendada para o brinquedo. A função gets() deverá ser utilizada para obter a entrada.
+
+**Saída**
+O programa deverá retornar uma mensagem categorizando o brinquedo de acordo com a faixa etária fornecida. As categorias são:
+
+"Infantil" para idades de 0 a 9 anos.
+"Pre-Adolescente" para idades de 10 a 14 anos.
+"Adolescente" para idades de 15 a 18 anos.
+
+
+### Desafio 4 - Analisando o estoque de brinquedos
+
+Em uma loja de brinquedos, é importante categorizar os brinquedos com base na faixa etária recomendada para que os clientes possam encontrar facilmente o brinquedo adequado para cada idade. 
+
+O objetivo deste desafio é criar um programa que, ao receber a faixa etária fornecida pelo usuário, categorize o brinquedo em uma das seguintes categorias: "Infantil", "Pre-Adolescente" ou "Adolescente".
+
+**Entrada**
+O programa deverá receber como entrada um número que indica a idade mínima recomendada para o brinquedo. A função gets() deverá ser utilizada para obter a entrada.
+
+**Saída**
+O programa deverá retornar uma mensagem categorizando o brinquedo de acordo com a faixa etária fornecida. As categorias são:
+
+"Infantil" para idades de 0 a 9 anos.
+"Pre-Adolescente" para idades de 10 a 14 anos.
+"Adolescente" para idades de 15 a 18 anos.
