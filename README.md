@@ -34,6 +34,7 @@ Este Bootcamp visa proporcionar uma imersão no desenvolvimento front-end, focan
 |Jogo detona Raph|HTML+CSS+JavaScript|[projeto](https://github.com/patyfreitasbr/jogo-detona-raph)/[acesse](https://patyfreitasbr.github.io/jogo-detona-raph/)|
 | Classificador nível Heroi| Lógica Programação + JavaScript| [projeto](https://github.com/patyfreitasbr/classificador-nivel-heroi)
 |Jogo da memória emoji| HTML + CSS + JavaScript | [projeto](https://github.com/patyfreitasbr/jogo-memoria-emoji) /[acesse](https://patyfreitasbr.github.io/jogo-memoria-emoji/) 
+|Simulador de piano |HTML + CSS + JavaScript |[projeto](https://github.com/patyfreitasbr/simulador-de-piano)|
 
 <br>
 
